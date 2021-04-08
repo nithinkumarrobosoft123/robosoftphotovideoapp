@@ -1,0 +1,7 @@
+{
+  "name": "photovideoapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
